@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660671475744",
+    "project_id": "greensnapak47",
+    "storage_bucket": "greensnapak47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660671475744:android:ce8530787c41dae36ccc45",
+        "android_client_info": {
+          "package_name": "com.amalkrishna.greensnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660671475744-rl4r6vspgg4pinqtg5nianicu27lhlar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1nRG51_5byA_6dixYYxdh0oOyETzTJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660671475744-rl4r6vspgg4pinqtg5nianicu27lhlar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
